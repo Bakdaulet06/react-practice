@@ -1,9 +1,9 @@
-import ColorList from "./colorlist"
+import Kanban from "./Kanban"
 
 function App() {
   return (
     <>
-      <ColorList></ColorList>
+      <Kanban></Kanban>
     </>
   )
 }
