@@ -1,9 +1,9 @@
-import Kanban from "./Kanban"
+import Users from "./Users"
 
 function App() {
   return (
     <>
-      <Kanban></Kanban>
+      <Users></Users>
     </>
   )
 }
